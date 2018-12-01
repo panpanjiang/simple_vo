@@ -1,0 +1,21 @@
+%YAML:1.0
+
+#--------------------------------------------------------------------------------------------
+# Camera Parameters. Adjust them!
+#--------------------------------------------------------------------------------------------
+
+# Camera calibration and distortion parameters 
+Camera.fx: 707.0912
+Camera.fy: 707.0912
+Camera.cx: 601.8873
+Camera.cy: 183.1104
+
+#Camera.k1: 0.262383
+#Camera.k2: -0.953104
+#Camera.p1: -0.005358
+#Camera.p2: 0.002628
+#Camera.k3: 1.163314
+
+#the min_num of features to tracking in the frame
+MIN_NUM: 2000
+frame_num: 2761
