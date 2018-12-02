@@ -1,6 +1,8 @@
 #### Introdution:
 
-This is a simple visual odometry. Only use the Essential matrix to recover the rotation and translation between the consecutive frames. 
+This is a simple visual odometry. Only use the Essential matrix to recover the rotation and translation between the consecutive frames.
+
+More details: https://panpanjiang.github.io/2018/11/16/learn-vo-1/#more
 
 #### Dependencies:
 
